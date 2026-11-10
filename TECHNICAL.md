@@ -26,6 +26,8 @@ What the board needs:
 
 The SmartPort lines are fixed because the assembler routines access port D and port C directly. The firmware prints messages and errors on the serial port.
 
+Schematics of the SPIISD V1 (board A and board B), a variant with an Arduino Uno and a data logger shield, and breadboard layouts for both are in [hardware/SmartportSD_Schematic_Breadboard.md](hardware/SmartportSD_Schematic_Breadboard.md) (the drawings as PNG and SVG in `hardware/img`).
+
 The **SPIISD V2** with LCD has closed firmware and a different user interface. This has not been tested on it.
 
 ## The protocol (for other programs)

@@ -28,4 +28,5 @@ boards/
 case/
 INTERNAL.md
 core4sd-signatur.txt
+internal/
 .vscode/

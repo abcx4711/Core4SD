@@ -36,6 +36,21 @@ by Robert Justice and Andrea Ottaviani, as continued by Katherine Stark
 (FAT version also by Eric Helgeson). They were changed for Core4SD (see the
 head of src/packet_16mhz.S).
 
+Hardware documentation (hardware/)
+----------------------------------
+
+The schematics, breadboard layouts and their description in hardware/ were
+drawn for Core4SD and are under the GNU GPL version 3 or later like the rest
+of Core4SD. They show the SmartPort wiring of the SmartportCFA/SmartportSD
+design by Robert Justice (Arduino port by Andrea Ottaviani). Boards A and B
+follow the SPIISD V1 by Kay Koba (Kero's Mac Mods,
+github.com/kerokero5150/SP2SD_DIY_KIT).
+
+The SPIISD hardware itself (circuit board layout, Gerber files) is not part
+of Core4SD. Kay Koba publishes it under the Creative Commons
+Attribution-NonCommercial-ShareAlike 4.0 International License
+(CC BY-NC-SA 4.0).
+
 SmartportSD is published under the MIT License, as stated by the SP2SD DIY
 kit (github.com/kerokero5150/SP2SD_DIY_KIT, SMARTPORTSD_LICENSE.md):
 
